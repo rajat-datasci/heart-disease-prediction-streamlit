@@ -55,7 +55,7 @@ This project is an end-to-end machine learning application that predicts the ris
 ---
 
 ## 🚀 Live Demo
-👉 (Add your Streamlit app link here after deployment)
+👉 (https://heart-disease-prediction-app-wkmvxrq2udqhsvyzfckqc2.streamlit.app)
 
 ## ⚠️ Disclaimer
 This application is for educational purposes only and should not be used for medical diagnosis.
